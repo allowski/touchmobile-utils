@@ -1,3 +1,4 @@
+/// <reference types="typescript" />
 
 var model = {
   name: "Base Item",
@@ -99,6 +100,8 @@ var model = {
     }
   ]
 };
+
+/// <reference types="typescript" />
 
 var Utils = {
 
