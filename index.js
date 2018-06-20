@@ -162,16 +162,4 @@ var Utils = {
     }
 };
 
-let result = Utils.traceTree(model);
-
-console.log("GROUPS", result);
-
-console.log(Utils.checkValidity(result));
-
-
-/**
- *      checkValidity.
- *      
- *
- *
- */
+module.exports = Utils;
