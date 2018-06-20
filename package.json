@@ -1,0 +1,14 @@
+{
+  "name": "touchmobile-utils",
+  "version": "1.0.0",
+  "description": "TouchMobile Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "touchmobile"
+  ],
+  "author": "Alberto Miranda Dencowski",
+  "license": "MIT"
+}
