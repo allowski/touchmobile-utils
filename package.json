@@ -1,13 +1,9 @@
 {
   "name": "touchmobile-utils",
-  "version": "1.0.1",
+  "version": "1.0.15",
   "description": "TouchMobile Utils",
   "main": "index.js",
-  "types": "index.d.ts",
   "dependencies": {
-    "browserify": "latest",
-    "@types/browserify": "latest",
-    "typescript": "next"
   },
   "scripts": {
     "test": "jest"
